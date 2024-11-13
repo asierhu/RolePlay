@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Características
+## Características
 
 - **CRUD de Criaturas:** Crear, leer, actualizar y eliminar criaturas.
 - **Gestión Pública y Privada:**
